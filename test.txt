@@ -1,2 +1,4 @@
 not sure if this is going to work
 
+how does the branch adding work (locally and/or remotely) and why could i now 
+create a branch called main and not when i set up the remote push?
