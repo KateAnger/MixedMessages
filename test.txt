@@ -1,4 +1,33 @@
+25/12/2020
+==========
+
 not sure if this is going to work
 
 how does the branch adding work (locally and/or remotely) and why could i now 
 create a branch called main and not when i set up the remote push?
+
+So when I first created the repository on GitHub, the code provided to push an 
+existing local repository didn't work - i.e. it wouldn't let me create a new 
+branch called main and push that. It did before when I was practicing in the 
+tutorials so I obviously did something that I shouldn't have done. Can't 
+remember error - it has gone now - but something to do with refs ... As the 
+project recommends working in a seperate branch and thenm merging with main 
+later, I kind of needed to fix this. So I added a branch in GitHub but then 
+it wouldn't be local. So I deleted that. Seperately, with git checkout -b main 
+created a new branch (does that change to main straight away as opposed to 
+master?) and then committed that - with this file - and now it seems to match 
+up on GitHub.
+
+
+file:///C:/Users/kate_/Downloads/SWTM-2088_Atlassian-Git-Cheatsheet.pdf
+
+vi commands:
+https://www.cs.colostate.edu/helpdocs/vi.html#:~:text=Basic%20vi%20Commands%201%20To%20Get%20Into%20and,...%204%20Adding%2C%20Changing%2C%20and%20Deleting%20Text.%20
+
+
+
+
+
+
+
+
